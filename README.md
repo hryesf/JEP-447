@@ -2,4 +2,4 @@
 
 * [openjdk.org](https://openjdk.org/jeps/447)
 
-* [My presentation about this feature on  Java Talk](https://www.youtube.com/watch?v=Y2Bn8pusXlc)
+* [My presentation about this feature on Persian Java Talk](https://www.youtube.com/watch?v=Y2Bn8pusXlc)
